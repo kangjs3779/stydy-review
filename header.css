@@ -98,14 +98,15 @@ input {
     font-weight: bold;
 }
 
-i {
-    margin: auto 15px auto 0px;
-}
 
 .main-header-itm2 {
     margin-right: 5px;
     height: 16px;
     font-size: 11px;
+    position: relative;
+    top: 12px;
+    right: 18px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
 }
 
 #main-header-itm2-1 {
