@@ -1,0 +1,51 @@
+#head1 {
+    width: auto;
+    height: 40px;
+    background-color: #ffc303;
+    display: flex;
+}
+
+#head1-1 {
+    color: #1c3761;
+    font-family: 'Noto Sans KR','Malgun Gothic','맑은 고딕','malgun',Apple-Gothic,애플고딕,Tahoma,dotum,돋움,gulim,굴림,sans-serif;
+    padding: auto 20px;
+    font-size: 15px;
+    padding: auto 0px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+#date1 {
+    width: 89.5px;
+    height: 23px;
+    margin: 0px 10px 0px 0px;
+    padding: 4px 10px;
+    background-color: white;
+    font-family: 'Noto Sans KR','Malgun Gothic','맑은 고딕','malgun',Apple-Gothic,애플고딕,Tahoma,dotum,돋움,gulim,굴림,sans-serif;
+    font-size: 13px;
+    border-radius: 70px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+#head2 {
+    display: flex;
+    width: 1200px;
+    height: 60px;
+    padding: 0px 20px;
+}
+
+#logo1 {
+    width: 156px;
+    height: 18px;
+    margin: auto 0px;
+}
+
+#head2-1 {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: 'Noto Sans KR','Malgun Gothic','맑은 고딕','malgun',Apple-Gothic,애플고딕,Tahoma,dotum,돋움,gulim,굴림,sans-serif;
+    color: #353535;
+}
