@@ -1,0 +1,163 @@
+body {
+    margin: 0px;
+}
+
+.header-container {
+    border-bottom: 1px solid rgb(178, 178, 178);
+}
+.mian-header {
+    display: flex;
+    height: 160px;
+    width: 1130px;
+    margin: 0px auto;
+}
+
+.main-header-itm1 {
+    display: flex;
+    margin: 40px 0px 68px;
+}
+
+#main-header-itm1-2 {
+    width: 582px;
+    height: 52px;
+    border: 2px solid #14cf60;
+    margin-left: 20px;
+    margin-top: 45px;
+    margin-bottom: 63px;
+    position: relative;
+}
+
+.search-box {
+    height: 24px;
+}
+
+.search-box:focus {
+    outline-width: 0px;
+}
+
+.fa-magnifying-glass {
+    position: absolute;
+    top: 12.5px;
+    left: 14px;
+
+}
+
+.search-itm {
+    display: flex;
+    position: relative;
+}
+
+#keyboard {
+    background-color: white;
+    border: 0px solid white;
+    margin-right: auto;
+    font-size: 17px;
+    color: rgb(199, 199, 199);
+    width: 36px;
+    height: 45px;
+    position: absolute;
+    left: 15px;
+    bottom: 1px;
+}
+
+#keyboard:hover {
+    color: #6d6c6c;
+}
+
+#caretdown {
+    color: #14cf60;
+    background-color: white;
+    border: 0px solid white;
+    width: 22px;
+    height: 45px;
+    position: absolute;
+    left: 50px;
+    top: 1px;
+}
+
+#glass {
+    background-color: #14cf60;
+    border: 0px solid white;
+    color: white;
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    left: 82px;
+    
+}
+
+input {
+    width: 444px;
+    height: 20px;
+    padding: 13px 15px;
+    margin: auto 1px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.main-header-itm2 {
+    margin-right: 5px;
+    height: 16px;
+    font-size: 11px;
+    position: relative;
+    top: 12px;
+    right: 18px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+}
+
+#main-header-itm2-1 {
+    margin-left: auto;
+    
+}
+
+.sub-header {
+    border-bottom: 1px solid rgb(178, 178, 178);
+}
+
+.sub-header1 {
+    display: flex;
+    height: 52px;
+    width: 1130px;
+    margin: 0px auto;
+    
+}
+
+.sub-header-itm1 {
+    color: #03c75a;
+    font-weight: 700;
+    font-size: 15px;
+    margin: auto 10px auto 0px;
+    
+
+}
+
+.sub-header-itm2 {
+    color: #000;
+    font-weight: 700;
+    font-size: 15px;
+    margin: auto 10px auto 0px;
+    
+
+}
+
+.sub-header-itm3 {
+    font-size: 13px;
+    color: #202020;
+    margin: auto 0px auto 17px;
+}
+
+.fa-chevron-down {
+    font-size: 11px;
+    margin: auto 0px auto 7px;
+    vertical-align: 2px;
+}
+
+.sub-header-itm4 {
+    font-size: 12px;
+    color: grey;
+    margin: auto 0 auto auto ;
+}

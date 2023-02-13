@@ -1,0 +1,353 @@
+.content {
+    display: flex;
+    width: 1190px;
+    height: 3451px;
+    padding: 20px 30px;
+    margin: 0px auto;
+}
+
+.main-box {
+    width: 750px;
+    margin-right: auto;
+
+}
+
+#main-box1 {
+    width: 750px;
+    height: 135px;
+    vertical-align: top;
+    background-color: rgb(124, 146, 124);
+    font-size: 60px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-box2 {
+    width: 750px;
+    height: 49px;
+    padding: 12px 15px 11px 15px;
+    border: 1px solid #dae1e6;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    position: relative;
+    top: 11px;
+    display: flex;
+}
+
+.main-box2-1 {
+    margin: 0px 4px 0px auto;
+    color: #3565c9;
+    position: relative;
+    top: 3px;
+}
+
+.main-box2-2 {
+    margin: 0px 4px 0px 7px;
+    position: relative;
+    top: 3px;
+}
+
+#newsarrow1 {
+    width: 12px;
+    height: 15px;
+    position: relative;
+    left: 3px;
+    top: 2px;
+}
+
+#main-box3 {
+    font-weight: 700;
+    font-size: 14px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-ser
+    height: 56px;
+    padding: 22px 0px 16px;
+    display: flex;
+    position: relative;
+    top: 11px;
+ 
+}
+
+#newsN {
+    width: 27px;
+    height: 24px;
+    position: relative;
+    bottom: 5px;
+}
+
+#newsarrow2 {
+    width: 12px;
+    height: 15px;
+    position: relative;
+    left: 3px;
+    top: 3px;
+}
+
+.subscribe {
+    color: #505050;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 400;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1px;
+}
+
+.whole {
+    font-weight: 700;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    position: relative;
+    bottom: 1px;
+    left: 20px;
+}
+
+#list {
+    margin-left: auto;
+    width: 14px;
+    height: 13px;
+    position: relative;
+    right: 45px;
+}
+
+#tile {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    right: 25px;
+}
+
+#set {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    right: 8px;
+}
+
+#main-box4 {
+    height: 260px;
+    position: relative;
+    top: 11px;
+}
+
+table {
+    border: 1px rgb(178, 178, 178) solid ;
+    width: 750px;
+    height: 260px;
+}
+
+tr {
+    border: 1px rgb(178, 178, 178) solid ;
+}
+
+td {
+    border: 1px rgb(178, 178, 178) solid ;
+    text-align: center;
+}
+
+#main-box5 {
+    height: 3000px;
+    padding: 35px 0px 27px;
+    position: relative;
+    top: 11px;
+
+}
+
+#main-box5-1 {
+    height: 33.5px;
+    display: flex;
+}
+
+#textBox3 {
+    margin-left: auto;
+}
+
+/* sub box */
+
+.sub-box {
+    width: 350px;
+    
+}
+
+#sub-box1 {
+    height: 135px;
+    padding: 16px 16px 12px 17px;
+    border: 1px solid #dae1e6;
+    background-color: #f7f9fa;
+}
+
+#subBox1-1 {
+    font-size: 12px;
+    color: #808080;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    width: 315px;
+    height: 16px;
+    padding-left: 3px;
+
+}
+
+#subBox1-2 {
+    font-size: 13px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    width: 315px;
+    height: 48px;
+    padding: 15px 0px;
+    border: 1px solid #15c654;
+    background-color: #19ce60;
+    border-radius: 2px;
+    margin-top: 11px;
+}
+
+#logInLogo {
+    width: 60px;
+    height: 13px;
+    position: relative;
+    bottom: 4px;
+}
+
+#logIn {
+    position: relative;
+    bottom: 2px;
+}
+
+#subBox1-3 {
+    display: flex;
+}
+
+.look-box {
+    font-size: 12px;
+    color: #404040;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+}
+
+#id1 {
+    width: 10px;
+    height: 14px;
+    position: relative;
+    top: 9px;
+    left: 5px;
+}
+
+#id2 { 
+    position: relative;
+    top: 12px;
+    left: 4px;
+}
+
+#psw {
+    position: relative;
+    top: 12px;
+    left: 12px;
+}
+
+#join1 {
+    width: 11px;
+    height: 11px;
+    position: relative;
+    left: 141px;
+    top: 8px;
+}
+
+#join2 {
+    font-size: 12px;
+    color: #505050;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    position: relative;
+    top: 8px;
+    left: 143px;
+}
+
+#sub-box2 {
+    height: 47px;
+    padding-right: 67px;
+    border: 1px solid #dae1e6;
+    position: relative;
+    top: 12px;
+}
+
+#us1 {
+    font-size: 13px;
+    font-family:-apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+    border-right: 1px solid #dae1e6;
+    padding-right: 8px;
+    position: relative;
+    top: 9px;
+    left: 17px;
+}
+
+#us2 {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+    position: relative;
+    top: 9px;
+    left: 11px;
+}
+
+#sub-box3 {
+    height: 200px;
+    border: 1px solid #dae1e6;
+    position: relative;
+    top: 23px;
+    background-color: rgb(124, 146, 124);
+    font-size: 60px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sub-box4 {
+    height: 44px;
+    padding: 12px 0px 13px;
+    position: relative;
+    top: 36px;
+    display: flex;
+
+}
+
+#shopP {
+    width: 15px;
+    height: 15px;
+}
+
+.shop1 {
+    font-size: 13px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+#sub-box4-1 {
+    font-size: 13px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+}
+
+#sub-box4-2 {
+    margin-left: auto;
+}
+
+#sub-box5 {
+    height: 800px;
+    padding: 12px 8px 31px 8px;
+    position: relative;
+    top: 36px;
+}
+
+#sub-box5-1 {
+    height: 70px;
+    padding: 12px 4px 11px 10px;
+    background-color: #f7f9fa;
+    border: 1px solid #dae1e6;
+}
+
+#sub-box5-2 {
+    border: 1px solid #dae1e6;
+    height: 880px;
+
+}

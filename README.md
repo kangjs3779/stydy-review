@@ -1,2 +1,2 @@
-# stydy-review
-stydy-review
+# study-review
+study-review
