@@ -148,10 +148,18 @@ td {
 #main-box5 {
     height: 3000px;
     padding: 35px 0px 27px;
-    background-color: grey;
     position: relative;
     top: 11px;
 
+}
+
+#main-box5-1 {
+    height: 33.5px;
+    display: flex;
+}
+
+#textBox3 {
+    margin-left: auto;
 }
 
 /* sub box */
@@ -215,12 +223,41 @@ td {
     font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
 }
 
-#join {
+#id1 {
+    width: 10px;
+    height: 14px;
+    position: relative;
+    top: 9px;
+    left: 5px;
+}
+
+#id2 { 
+    position: relative;
+    top: 12px;
+    left: 4px;
+}
+
+#psw {
+    position: relative;
+    top: 12px;
+    left: 12px;
+}
+
+#join1 {
+    width: 11px;
+    height: 11px;
+    position: relative;
+    left: 141px;
+    top: 8px;
+}
+
+#join2 {
     font-size: 12px;
     color: #505050;
     font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
-    margin-bottom: auto;
-    margin-left: auto;
+    position: relative;
+    top: 8px;
+    left: 143px;
 }
 
 #sub-box2 {
@@ -231,28 +268,86 @@ td {
     top: 12px;
 }
 
+#us1 {
+    font-size: 13px;
+    font-family:-apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+    border-right: 1px solid #dae1e6;
+    padding-right: 8px;
+    position: relative;
+    top: 9px;
+    left: 17px;
+}
+
+#us2 {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+    position: relative;
+    top: 9px;
+    left: 11px;
+}
+
 #sub-box3 {
     height: 200px;
     border: 1px solid #dae1e6;
     position: relative;
     top: 23px;
-
+    background-color: rgb(124, 146, 124);
+    font-size: 60px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #sub-box4 {
     height: 44px;
     padding: 12px 0px 13px;
-    background-color: bisque;
     position: relative;
     top: 36px;
+    display: flex;
 
+}
 
+#shopP {
+    width: 15px;
+    height: 15px;
+}
+
+.shop1 {
+    font-size: 13px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+#sub-box4-1 {
+    font-size: 13px;
+    font-family: -apple-system,BlinkMacSystemFont,"Malgun Gothic","맑은 고딕",helvetica,"Apple SD Gothic Neo",sans-serif;
+    font-weight: 700;
+}
+
+#sub-box4-2 {
+    margin-left: auto;
 }
 
 #sub-box5 {
     height: 800px;
     padding: 12px 8px 31px 8px;
-    background-color: gold;
     position: relative;
     top: 36px;
+}
+
+#sub-box5-1 {
+    height: 70px;
+    padding: 12px 4px 11px 10px;
+    background-color: #f7f9fa;
+    border: 1px solid #dae1e6;
+}
+
+#sub-box5-2 {
+    border: 1px solid #dae1e6;
+    height: 880px;
+
 }
